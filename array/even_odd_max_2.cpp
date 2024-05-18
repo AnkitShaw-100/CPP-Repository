@@ -24,6 +24,8 @@ int main(){
         }
     }
     cout<<"The largest element is : " <<a[n-1] <<endl;
+
+    //Checking the sorted array
     for(i=0; i<n; i++){
        cout << a[i] <<endl;
     }
