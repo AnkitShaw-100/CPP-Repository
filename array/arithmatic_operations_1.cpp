@@ -10,6 +10,7 @@ int main(){
         cout << "Enter the elements of array : " << endl;
          cin >> a[i]; 
     }
+    // Arithmatic Operation
     for(i=0; i<n; i++){
        sum = sum + a[i]; 
        product = product * a[i];

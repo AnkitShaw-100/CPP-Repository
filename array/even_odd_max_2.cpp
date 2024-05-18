@@ -13,6 +13,8 @@ int main(){
          cout << "Enter the elements of array : ";
          cin >> a[i]; 
     }
+
+    //Finding largest element 
     for(i=0; i<n; i++){
         for(j=0; j<n; j++)
         if(a[j]>a[j+1]){
@@ -25,6 +27,8 @@ int main(){
     for(i=0; i<n; i++){
        cout << a[i] <<endl;
     }
+
+    // Even - Odd
     for(i=0; i<n; i++){
         if(a[i]%2 == 0){
             even++;
