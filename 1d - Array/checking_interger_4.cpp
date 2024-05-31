@@ -1,3 +1,6 @@
+/*This program takes an array input from the user and then counts the
+ number of positive, negative, and zero elements in the array */
+
 #include <iostream>
 using namespace std;
 
