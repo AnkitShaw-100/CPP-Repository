@@ -1,0 +1,23 @@
+// 1. Finding the Sum of Upper Triangle Elements in a Matrix
+// 2. Finding the Sum of Lower Triangle Elements in a Matrix
+3. Checking if a Matrix is a Toeplitz Matrix (all diagonal elements are equal)
+4. Checking if a Matrix is a Hankel Matrix (all ascending diagonals are constant)
+// 5. Checking if a Matrix is a Sparse Matrix (contains a lot of zeros)
+// 6. Checking if a Matrix is an Identity Matrix (diagonal elements are 1, and others are 0)
+// 7. Checking if a Matrix is a Zero Matrix (all elements are 0)
+// 8. Checking if a Matrix is a Diagonal Matrix (non-diagonal elements are 0)
+//9. Finding the Determinant of a 2x2 Matrix
+//10. Finding the Determinant of a 3x3 Matrix
+
+
+
+1. Finding the Determinant of a Square Matrix (n x n)
+2. Finding the Inverse of a 2x2 Matrix
+3. Finding the Inverse of a 3x3 Matrix
+//4. Checking if a Matrix is Orthogonal
+//5. Checking if a Matrix is Singular
+//6. Checking if a Matrix is Skew-Symmetric
+7. Finding the Rank of a Matrix
+// 8. Performing Matrix Addition
+// 9. Performing Matrix Subtraction
+// 10. Performing Matrix Multiplication
