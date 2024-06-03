@@ -1,0 +1,12 @@
+Sure, here are the names of some programs to practice pointers:
+
+// 1. Basic Pointer Usage
+// 2. Pointer Arithmetic
+// 3. Swapping Two Numbers Using Pointers
+// 4. Dynamic Memory Allocation
+// 5. Array of Pointers
+6. Pointers and Functions
+7. Pointers to Structures
+// 8. Double Pointers
+// 9. Pointer to Pointer Arithmetic
+10. Pointer and Const Variables
