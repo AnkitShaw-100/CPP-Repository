@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    unordered_set<int> s;
+    set<int> s;
     for (int i = 1; i <= 10; i++) {
         s.insert(i);
     }
@@ -20,7 +20,7 @@ int main() {
     }
 
     s.erase(s.begin());
-    cout << "Element after deleting the first element: ";
+    cout << "Element after deleting the first element: " << endl;
 
     cout << "Elements present in the set: ";
     for (auto it = s.begin(); it != s.end(); it++) {
